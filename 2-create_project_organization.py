@@ -32,4 +32,4 @@ def create_project_organization():
     urllib.request.urlretrieve(url, summary_file)
 
 # 调用函数
-create_project_organization()
+# create_project_organization()
