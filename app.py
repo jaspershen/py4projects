@@ -37,5 +37,4 @@ def server(input, output, session):
         fig.colorbar(im, ax=ax)
         return fig
 
-
 app = App(app_ui, server)
